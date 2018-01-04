@@ -1,0 +1,50 @@
+{
+  "acidyo": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+  "arsenal49": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+  "emrebeyler": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+  "eventta": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+  "juliank": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+  "photocontests": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+  "steemsports": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+  "utopian-io": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  }
+}
