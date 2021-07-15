@@ -63,6 +63,6 @@ def run(user_json):
 
 if __name__ == '__main__':
 	# user_json = create_json()
-	with open("user_json_simple.json") as json_data:
+	with open("user_json.json") as json_data:
 		user_json = json.load(json_data)
 	run(user_json)
