@@ -5,44 +5,56 @@
     "upvote_limit": 2,
     "upvote_count": 0
   },
-  "emrebeyler": {
-    "upvote_weight": 100,
+  "disconnect": {
+    "upvote_weight": 50,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
   "cjsdns": {
-    "upvote_weight": 100,
+    "upvote_weight": 50,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
   "oldstone": {
-    "upvote_weight": 100,
+    "upvote_weight": 50,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
   "zinasure": {
-    "upvote_weight": 100,
+    "upvote_weight": 50,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
   "successgr": {
-    "upvote_weight": 100,
+    "upvote_weight": 50,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
    "dodoim": {
-    "upvote_weight": 100,
+    "upvote_weight": 50,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
+   "jondoe": {
+    "upvote_weight": 50,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+   "justyy": {
+    "upvote_weight": 50,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },  
   "dobartim": {
-    "upvote_weight": 100,
+    "upvote_weight": 50,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
