@@ -38,7 +38,7 @@ def valid_post(post, user_json):
 		return False
 
 def run(user_json):
-	username   = "amosbastian"
+	username   = "yehey"
 	wif        = os.environ.get("UNLOCK")
 	steem      = Steem(wif=wif)
 	blockchain = Blockchain()
