@@ -1,11 +1,5 @@
 {
-  "acidyo": {
-    "upvote_weight": 100,
-    "vote_when": 0,
-    "upvote_limit": 2,
-    "upvote_count": 0
-  },
-  "arsenal49": {
+  "steemitblog": {
     "upvote_weight": 100,
     "vote_when": 0,
     "upvote_limit": 2,
@@ -17,31 +11,37 @@
     "upvote_limit": 2,
     "upvote_count": 0
   },
-  "eventta": {
+  "cjsdns": {
     "upvote_weight": 100,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
-  "juliank": {
+  "oldstone": {
     "upvote_weight": 100,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
-  "photocontests": {
+  "zinasure": {
     "upvote_weight": 100,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
-  "steemsports": {
+  "successgr": {
     "upvote_weight": 100,
     "vote_when": 0,
     "upvote_limit": 2,
     "upvote_count": 0
   },
-  "utopian-io": {
+   "dodoim": {
+    "upvote_weight": 100,
+    "vote_when": 0,
+    "upvote_limit": 2,
+    "upvote_count": 0
+  },
+  "dobartim": {
     "upvote_weight": 100,
     "vote_when": 0,
     "upvote_limit": 2,
